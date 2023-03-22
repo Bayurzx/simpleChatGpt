@@ -1,0 +1,21 @@
+{
+  "name": "simplechatgpt",
+  "version": "1.0.0",
+  "description": "Simple chatgpt api usage taught by web dev simplified",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatGPT",
+    "openai",
+    "js"
+  ],
+  "author": "Adebayo Omolumo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
