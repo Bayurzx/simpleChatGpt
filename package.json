@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "node index.js",
+    "nonstop": "node script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
