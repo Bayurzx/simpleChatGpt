@@ -33,4 +33,4 @@ To customize the behavior of the chatbot, you can modify the `model` parameter i
 License
 -------
 
-This code is licensed under the [MIT License](https://github.com/openai/openai-node/blob/master/LICENSE).
+This code is licensed under the [MIT License](https://github.com/Bayurzx/simpleChatGpt/blob/main/LICENSE).
